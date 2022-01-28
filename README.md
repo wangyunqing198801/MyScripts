@@ -1,4 +1,4 @@
-## Special statement:
+## 特别声明:本仓库脚本已内置助力码，介意请勿使用
 
 * Any unlocking and decryption analysis scripts involved in the Script project released by this warehouse are only used for testing, learning and research, and are forbidden to be used for commercial purposes. Their legality, accuracy, completeness and effectiveness cannot be guaranteed. Please make your own judgment based on the situation. .
 
@@ -17,9 +17,9 @@
  **You must completely delete the above content from your computer or mobile phone within 24 hours after downloading.**  </br>
 > ***You have used or copied any script made by yourself in this warehouse, it is deemed to have `accepted` this statement, please read it carefully*** 
 
-## Please move to [course](https://hub.fastgit.org/DX3242/README/tree/main) for more information
+## 如需使用教程请移步至 [course](https://www.kancloud.cn/zfeng3242_/zfeng1005/2318693)
 
-## [Telegram group](https://t.me/JD_DX1005)
+## [TG群组](https://t.me/JD_DX1005)
 
 ## Special thanks to:
 
